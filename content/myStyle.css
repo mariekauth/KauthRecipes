@@ -1,0 +1,68 @@
+﻿body {
+background:#AF5FAF;
+}
+div#menu
+{
+border:2px solid #371E37;
+padding:10px 10px 10px 10px; 
+background:#F5B4F5;
+color:#472747;
+width: 275px;
+border-radius:15px;
+-moz-border-radius:15px; /* Old Firefox */
+box-shadow: 10px 7px 5px #653665;
+text-align:left;
+display: inline-block;
+float:left;
+}
+div#content
+{
+border:2px solid #371E37;
+padding:10px 10px 30px 10px; 
+background:#8F4E8F;
+color:#FFFFCC;
+width:600px;
+border-radius:15px;
+-moz-border-radius:15px; /* Old Firefox */
+box-shadow: 10px 7px 5px #653665;
+text-align:left;
+display: inline-block;
+float:right;
+}
+div#mySM_Container{
+	width:950px;
+	margin-left:auto; margin-right:auto;
+}
+#mySM_Header{
+
+border:2px solid #371E37;
+padding:10px 10px 10px 10px;
+color:#472747;
+width: 275px;
+border-radius:15px;
+-moz-border-radius:15px; /* Old Firefox */
+box-shadow: 10px 7px 5px #653665;
+text-align:center;
+display: inline-block;
+float:left;
+
+
+text-align:right;
+width:925px;height:148px; background:#F5B4F5 url('Kauths.gif') no-repeat;
+margin-bottom:15px;
+font-family:"Freestyle Script";	font-size: 75px;color:#8F4E8F;
+}
+
+div#menu ul{
+	text-decoration:none;
+	list-style-type:none;
+	margin-left:-35px;
+}
+div#menu ul li{
+	background:#8F4E8F;
+	color:#FFFFCC;
+	padding: 3px 15px 3px 15px;
+	margin-bottom:5px;
+	border-radius:10px;
+	-moz-border-radius:15px; /* Old Firefox */
+}
